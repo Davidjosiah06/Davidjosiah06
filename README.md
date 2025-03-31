@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidjosiah06
-- 👀 I’m interested in biosystems engineering and software programming.
-- 🌱 I’m currently learning biosystems engineering.
+- 👀 I’m interested in Biomedical engineering and software programming.
+- 🌱 I’m currently learning Biomedical engineering.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me dorta@arizona.edu
 - 😄 Pronouns: He/Him
